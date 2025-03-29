@@ -10982,7 +10982,10 @@ html {
 }
 
 .masthead .masthead-name {
-  font-size: 2.1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 2.0rem;
   font-weight: bold;
 }
 

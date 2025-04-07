@@ -10994,7 +10994,9 @@ html {
 }
 
 .masthead .masthead-avatar {
-  width: 35rem;
+  width: 100%;
+  max-width: 35rem;
+  height: auto;
 }
 
 .hillhouse {

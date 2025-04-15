@@ -678,6 +678,11 @@ progress {
   margin-right: calc(-0.5 * var(--bs-gutter-x));
   margin-left: calc(-0.5 * var(--bs-gutter-x));
 }
+
+.bank-account-div {
+  margin-top: 4rem;
+}
+
 .row > * {
   flex-shrink: 0;
   width: 100%;

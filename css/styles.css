@@ -605,6 +605,10 @@ progress {
   height: auto;
 }
 
+.google-maps {
+  height: 300px;
+}
+
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;

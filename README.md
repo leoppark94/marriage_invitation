@@ -9,3 +9,7 @@ This website uses the [Start Bootstrap - Freelancer](https://github.com/startboo
 ## Preview
 
 You can preview the website by opening `index.html` in your browser.
+
+## Korean
+
+Korean version will be updated
